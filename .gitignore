@@ -55,9 +55,6 @@ $RECYCLE.BIN/
 # TypeScript
 *.tsbuildinfo
 
-# NestJS
-.env
-
 # Windows Installer files
 *.cab
 *.msi
@@ -71,3 +68,4 @@ $RECYCLE.BIN/
 npm-debug.log
 *.npmrc
 node_modules/
+.vercel
